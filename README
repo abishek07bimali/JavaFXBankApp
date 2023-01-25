@@ -1,0 +1,9 @@
+this is a simple project related to bank management system. In this system database is used to store data and the
+ name of database is "bank".
+
+All the required files are attached.
+first xampp is downloaded and database named as bank is created and import
+the sql file that is named as customer then opened the folder of project in any IDE ( I used IntelliJ).
+ you need to import the sql connector in library to use this system.
+
+The jar file of connector is also attached on this file.
